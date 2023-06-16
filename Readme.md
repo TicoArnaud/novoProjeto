@@ -35,3 +35,6 @@ Este é um projeto onde compartilho meu código e colaboro com outros desenvolve
 [Fornecer informações sobre como entrar em contato, caso os usuários tenham dúvidas, sugestões ou problemas.]
 
 Agradeço por visitar meu repositório! Fique à vontade para explorar e contribuir.
+
+----------------------------------------------------------------------------
+1ª alteração de projeto para modificar a versão.
